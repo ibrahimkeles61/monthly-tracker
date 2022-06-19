@@ -1,0 +1,130 @@
+{
+  "week_1": {
+    "day_1": {
+      "day": 1,
+      "sport": {
+        "bicycle": {
+          "quantity": 5,
+          "type": "dk"
+        },
+        "push_up_triangle": {
+          "quantity": 2,
+          "repeat": 5
+        },
+        "push_up_normal": {
+          "quantity": 2,
+          "repeat": 5
+        },
+        "push_up_large": {
+          "quantity": 2,
+          "repeat": 5
+        },
+        "leg_shuttle": {
+          "quantity": 4,
+          "repeat": 5
+        },
+        "barfix": {
+          "quantity": 1,
+          "repeat": 5
+        },
+        "spring_up": {
+          "quantity": 6,
+          "repeat": 5
+        },
+        "spring_down": {
+          "quantity": 6,
+          "repeat": 5
+        }
+      },
+      "personal": {
+        "book": {
+          "quantity": 10,
+          "type": "sayfa"
+        },
+        "vakia": {
+          "quantity": 1
+        }
+      },
+      "english": {
+        "oxford": {
+          "quantity": 2,
+          "type": "sayfa"
+        },
+        "word": {
+          "quantity": 25
+        },
+        "duolingo": {
+          "quantity": 20,
+          "type": "dk"
+        },
+        "book": {
+          "quantity": 10,
+          "type": "sayfa"
+        }
+      }
+    },
+    "day_2": {
+      "day": 2,
+      "sport": {
+        "bicycle": {
+          "type": "dk",
+          "quantity": 0
+        },
+        "push_up_triangle": {
+          "quantity": 0,
+          "repeat": 0
+        },
+        "push_up_normal": {
+          "quantity": 0,
+          "repeat": 0
+        },
+        "push_up_large": {
+          "quantity": 0,
+          "repeat": 0
+        },
+        "leg_shuttle": {
+          "quantity": 0,
+          "repeat": 0
+        },
+        "barfix": {
+          "quantity": 0,
+          "repeat": 0
+        },
+        "spring_up": {
+          "quantity": 0,
+          "repeat": 0
+        },
+        "spring_down": {
+          "quantity": 0,
+          "repeat": 0
+        }
+      },
+      "personal": {
+        "book": {
+          "quantity": 0,
+          "type": "sayfa"
+        },
+        "vakia": {
+          "quantity": 0
+        }
+      },
+      "english": {
+        "oxford": {
+          "quantity": 0,
+          "type": "sayfa"
+        },
+        "word": {
+          "quantity": 0
+        },
+        "duolingo": {
+          "quantity": 0,
+          "type": "dk"
+        },
+        "book": {
+          "quantity": 0,
+          "type": "sayfa"
+        }
+      }
+    }
+  }
+}

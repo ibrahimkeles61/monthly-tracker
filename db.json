@@ -1,0 +1,80 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "subject_id": 1,
+      "task_name": "Bisiklet",
+      "subject_name": "Spor",
+      "dailyValues": [5],
+      "type": "dk"
+    },
+    {
+      "id": 2,
+      "subject_id": 1,
+      "task_name": "Şınav",
+      "subject_name": "Spor",
+      "dailyValues": [6]
+    },
+    {
+      "id": 3,
+      "subject_id": 1,
+      "task_name": "Barfix",
+      "subject_name": "Spor",
+      "dailyValues": [1]
+    },
+    {
+      "id": 4,
+      "subject_id": 1,
+      "task_name": "Bükbük",
+      "subject_name": "Spor",
+      "dailyValues": [12]
+    },
+    {
+      "id": 5,
+      "subject_id": 2,
+      "task_name": "Kitap",
+      "subject_name": "Kişisel",
+      "dailyValues": [10],
+      "type": "sayfa"
+    },
+    {
+      "id": 6,
+      "subject_id": 2,
+      "task_name": "Vakâ",
+      "subject_name": "Kişisel",
+      "dailyValues": [1]
+    },
+    {
+      "id": 7,
+      "subject_id": 3,
+      "task_name": "Oxford",
+      "subject_name": "İngilizce",
+      "dailyValues": [2],
+      "type": "sayfa"
+    },
+    {
+      "id": 8,
+      "subject_id": 3,
+      "task_name": "İng. Kelime",
+      "subject_name": "İngilizce",
+      "type": "sayfa",
+      "dailyValues": [25]
+    },
+    {
+      "id": 9,
+      "subject_id": 3,
+      "task_name": "Duolingo",
+      "subject_name": "İngilizce",
+      "dailyValues": [20],
+      "type": "dk"
+    },
+    {
+      "id": 10,
+      "subject_id": 3,
+      "task_name": "İng. Kitap",
+      "subject_name": "İngilizce",
+      "dailyValues": [10],
+      "type": "sayfa"
+    }
+  ]
+}
